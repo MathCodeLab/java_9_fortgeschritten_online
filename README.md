@@ -10,7 +10,7 @@ Die Ordnerstruktur sieht so aus:
 
 
 ```bash
-informathel_prog_mit_java
+java_9_fortgeschritten_online
 |____Notizen
 |____wichtigeDinge
 |____Hausaufgaben
