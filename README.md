@@ -1,6 +1,6 @@
 # Programmieren mit Java [#9]: (Fortgeschritten | Online)
 
-![Java 9](java_9.png)
+![Java 9](java_9.svg)
 
 Die Kapitel sind so organisiert, dass ihr einen groben ueberblick bekommt.
 
