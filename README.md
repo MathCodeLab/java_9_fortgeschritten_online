@@ -10,7 +10,7 @@ Die Ordnerstruktur sieht so aus:
 
 
 ```bash
-java_8_einsteiger_online
+informathel_prog_mit_java
 |____Notizen
 |____wichtigeDinge
 |____Hausaufgaben
