@@ -22,8 +22,8 @@ class Mensch {
         System.out.println("-----------");
         System.out.println("-----------");
         System.out.println("-----------");
-
     }
+
     static void printStar(){
         System.out.println("*******");
         System.out.println("*******");
@@ -50,7 +50,6 @@ class Mensch {
     // 4. mit ruckgabewert (return), mit argumente(parameters)
     static int berechneFlaeche(int laenge, int breite){
        int rechteckFlaeche = laenge * breite;
-
        return rechteckFlaeche;
     }
 
