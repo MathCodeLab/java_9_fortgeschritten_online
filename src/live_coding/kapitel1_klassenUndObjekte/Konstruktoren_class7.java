@@ -5,18 +5,34 @@ class Bird{
     int alter;
     double gewicht;
 
-    // Konstruktor!!!!!
+    // Konstruktor: eine Spezielle Methode!!!!!
     Bird(String VogelName, int VogelAlter, double VogelGewicht){
         name = VogelName;
         alter = VogelAlter;
         gewicht = VogelGewicht;
+    }
+
+    Bird(String VogelName){
+        name = VogelName;
+    }
+
+    Bird(String VogelName, int VogelAlter){
+        name = VogelName;
+        alter = VogelAlter;
+    }
+
+    Bird(){
     }
 }
 
 public class Konstruktoren_class7 {
     public static void main(String[] args) {
         Bird bird1 = new Bird("lilo", 12, 32.2);
-        Bird bird2 = new Bird("huhu", 45, 234);
+        Bird bird2 = new Bird("huhu", 45, 234.4);
+        Bird bird4 = new Bird("kuku"); // sarah
+        Bird bird5 = new Bird("tutu", 12); // zekra
+        Bird bird3 = new Bird();
+
         System.out.println(bird1.name); // lilo
         System.out.println(bird2.name); // huhu
 
@@ -43,3 +59,36 @@ public class Konstruktoren_class7 {
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
