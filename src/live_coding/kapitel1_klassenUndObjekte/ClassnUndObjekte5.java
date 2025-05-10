@@ -17,7 +17,7 @@ class Animal{
     int alter = 1; // 1 (default)
 }
 
-public class ClassnUndObjekte {
+public class ClassnUndObjekte5 {
     public static void main(String[] args) {
 
         Human humanObj1 = new Human(); // objekt vom typ Mensch erstellen

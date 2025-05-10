@@ -39,7 +39,7 @@ class Laptop{
 
 
 
-public class Class_attribute_und_methoden {
+public class Class_attribute_und_methoden3 {
     static String name;
 
     static void printHallo1(int y){
