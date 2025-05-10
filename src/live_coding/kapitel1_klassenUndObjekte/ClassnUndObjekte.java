@@ -1,5 +1,9 @@
 package live_coding.kapitel1_klassenUndObjekte;
 
+// englisch - deutsch
+// zero     -  Null
+// null     -  Nichts
+
 // variable, array, class
 class Human{
     String name;
@@ -8,9 +12,9 @@ class Human{
 }
 
 class Animal{
-    String typ;
-    String name;
-    int alter = 1;
+    String typ; // null
+    String name; // null
+    int alter = 1; // 1 (default)
 }
 
 public class ClassnUndObjekte {
